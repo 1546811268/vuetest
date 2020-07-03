@@ -1,2 +1,3 @@
 hello git
 barnch dev
+switch -c dev
